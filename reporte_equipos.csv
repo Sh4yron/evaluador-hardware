@@ -1,0 +1,11 @@
+ID,Sistema Operativo,Procesador,RAM (GB),SSD (GB),Veredicto,Precio Estimado (RD$)
+2,Windows 11,Ryzen 8,16,512,Equipo recomendado,23360.0
+3,Linux,Ryzen 4-,4,128,Equipo no recomendado,11840.0
+4,Ubuntu,Core 3,2,64,Equipo no recomendado,9920.0
+5,Windows 11,Ryzen 9,64,1024,Equipo recomendado,64320.0
+6,Windows 5,Ryzen 3,64,512,Equipo recomendado,61760.0
+7,Windows 11,Ryzen 5,16,256,Equipo funcional con limitaciones,22080.0
+8,Windows 10,Core I5,8,256,Equipo no recomendado,15680.0
+9,Macos,Apple M2,16,512,Equipo recomendado,23360.0
+10,Windows 11,Core I7,32,1024,Equipo recomendado,38720.0
+11,Windows 10,Core I3,4,128,Equipo no recomendado,11840.0
